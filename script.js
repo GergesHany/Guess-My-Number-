@@ -1,7 +1,7 @@
 "use strict";
 
 let secretNumber = Math.trunc(Math.random() * 20) + 1;
-let score = 10;
+let score = 20;
 let highscore = 0;
 
 const change_color = function (color = "red") {
